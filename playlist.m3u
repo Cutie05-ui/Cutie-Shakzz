@@ -122,6 +122,17 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 
+#EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" group-title="Shakzz",Sony PIX HD
+https://topsports.watch/sonyliv/stream.php?id=sony-pix-hd&format=.m3u8
+
+#EXTINF:-1 tvg-name="Sony MAX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8I-6j0wo5Lj5bSsjfVZaBEiNiozPsJZt-qg&s" group-title="Shakzz",Sony MAX HD
+https://topsports.watch/sonyliv/stream.php?id=sony-max-hd&format=.m3u8
+
+#EXTINF:-1 tvg-name="Sony MAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8I-6j0wo5Lj5bSsjfVZaBEiNiozPsJZt-qg&s" group-title="Shakzz",Sony MAX
+https://topsports.watch/sonyliv/stream.php?id=sony-max&format=.m3u8
+
+#EXTINF:-1 tvg-name="Sony MAX 2" tvg-logo="https://yt3.googleusercontent.com/r7fi39b2G0g-xrHbziVK_V0rgQqwRqXRtSDuUaALPCL-41ayfqIs_m7tSGR1ZGXU76toUEU3wg=s900-c-k-c0x00ffffff-no-rj" group-title="Shakzz",Sony MAX 2
+https://topsports.watch/sonyliv/stream.php?id=sony-max-2&format=.m3u8
 
 ########## CIGNAL TV ########
 
